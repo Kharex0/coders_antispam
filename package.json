@@ -1,0 +1,24 @@
+{
+  "name": "coders_antispam.js",
+  "version": "0.5.4",
+  "description": "Coder'S Code Türkçe Spam Koruması | Rol Ayarlama | Mesaj Ayarlama | Süre Ayarlamalı",
+  "main": "coders_antispam.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "anti_spam_sistemi",
+    "coders.antispam",
+    "discord.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YusufOyunda684/coders_antispam.git"
+  },
+  "bugs": {
+    "url": "https://github.com/YusufOyunda684/coders_antispam/issues"
+  },
+  "homepage": "https://github.com/YusufOyunda684/coders_antispam/#readme",
+  "author": "YusufOyundaTR",
+  "license": "MIT"
+}
